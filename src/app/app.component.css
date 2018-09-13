@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Avenir, 'Trebuchet MS', sans-serif;
+}
+
+section {
+   width: 90%;
+   margin: 50px auto;
+   text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+div.switch {
+  display: inline-block;
+  padding: 15px;
+  background-color: #994d00;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+div.switch button {
+  width: 40px;
+  height: 40px;
+  font-size: 1em;
+  color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
